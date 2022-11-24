@@ -1,0 +1,18 @@
+Kas 24, 2022 11:32:01 ÖS com.bilgeadam.homework.util.CommonData getLogger
+INFO: Logger created
+Kas 24, 2022 11:32:01 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Car Managment System
+Kas 24, 2022 11:32:21 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Body is added as an entity
+Kas 24, 2022 11:32:21 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Brand is added as an entity
+Kas 24, 2022 11:32:21 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Car is added as an entity
+Kas 24, 2022 11:32:21 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Door is added as an entity
+Kas 24, 2022 11:32:21 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Model is added as an entity
+Kas 24, 2022 11:32:21 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Window is added as an entity
+Kas 24, 2022 11:32:25 ÖS com.bilgeadam.homework.util.CommonData info
+INFO: 	---> Veri eklendi: Car(oid=1, price=45.0)
